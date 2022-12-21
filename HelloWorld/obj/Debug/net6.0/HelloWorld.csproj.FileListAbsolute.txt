@@ -1,0 +1,15 @@
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/kukjinkim/Desktop/Study/C#/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
